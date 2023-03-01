@@ -1,0 +1,181 @@
+.tahoma{
+  font-family: Tahoma;
+  font-weight: bold;
+}
+
+
+.hey,.bye{
+  font-family: Verdana;
+}
+
+
+.hey{
+  font-weight: bold;
+  margin-bottom: 5px;
+
+}
+
+.bye{
+  color: grey;
+  margin-bottom: 10px;
+  margin-top: 0px;
+}
+
+.hi{
+  width: 240px;
+  margin-top: 20px;
+}
+
+.bottom{
+  background-color: green;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border: none;
+  border-radius: 5px;
+  
+}
+
+
+.deal{
+  font-family: Arial;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 25px;
+}
+
+.end{
+  font-family: Arial;
+  color: red;
+  font-style: italic;
+  margin-top: 2px;
+  font-size: 16px;
+}
+
+.shop , .apple , .link{
+  font-family: Arial;
+  text-align: center;
+
+}
+
+.shop{
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+.link{
+  color: blue;
+}
+
+.new{
+  color: orangered;
+  margin-bottom: 2px;
+  font-size: 10px;
+}
+
+.macbook{
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.super{
+  font-size: 35px;
+  font-weight: bold;
+  margin-top: 2px;
+  margin-bottom: 0;
+}
+
+.from{
+  font-size: 12px;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.buy{
+  
+  text-align: center;
+  margin-top: 10px;
+  border-radius: 12px;
+  color: white;
+  background-color: rgb(39, 133, 255);
+  border: none;
+  font-size: 10px;
+  padding: 6px 12px;
+  
+  
+}
+
+.new,.macbook,.super,.from,.buy{
+  font-family: Arial;
+  text-align: center;
+
+}
+
+.USD{
+  font-family: Arial;
+  font-size: 30px;
+  margin-bottom: 4px;
+}
+
+.Miss{
+  font-family: Arial;
+  color: grey;
+  margin-left: 8px;
+  font-size: 16px;
+  margin-bottom: 2px;
+}
+
+.Percent{
+  font-family: Arial;
+  color: green;
+  margin-top: 0;
+  font-size: 15px;
+  margin-bottom: 4px;
+
+}
+
+.Thousand{
+  font-family: Arial;
+  color: grey;
+  font-size: 15px;
+  margin-top: 0px;
+}
+
+.Hit{
+  font-family: Arial;
+  color: orangered;
+}
+
+.BX{
+  font-family: Arial;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.EX{
+  font-family: Arial;
+  color: grey;
+  margin-bottom: 0;
+  font-weight: lighter;
+  margin-left: 4px;
+}
+
+.CX{
+  font-family: Arial;
+  width: 500px;
+  margin-top: 2px;
+}
+
+.NX{
+  font-family: Arial;
+}
+
+.NXV{
+  color: rgb(0, 153, 255);
+}
